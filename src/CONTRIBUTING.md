@@ -14,3 +14,4 @@
   - Faire des animations
 - Possibilité de personnaliser les opérations (choix des opérandes, des opérateurs, réponses composées (division euclidienne), réponses autres que numériques (QCM, fractions…))
 - Monétiser l'app
+- Ajouter des badges de progression
